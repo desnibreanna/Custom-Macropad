@@ -23,6 +23,13 @@ Here's what I landed on:</br>
 - **Display:** a 240x240 ST7789 SPI screen (7-pin), mounted flat on a socket so I can pop it off if I need to.</br>
 - **Encoder:** I really wanted a **roller wheel** and not a regular knob, so I went with the Panasonic EVQWGD001. It's the kind of scroll wheel you'd find on a mouse or an old phone.</br>
 
+| Components used |  |
+|---|---|
+| <img width="657" height="650" alt="Screenshot 2026-11-16 002729" src="https://github.com/user-attachments/assets/c07e0f87-6c53-4e9d-b387-0e247c759384" /> | <img width="645" height="458" alt="Screenshot 2026-11-16 002748" src="https://github.com/user-attachments/assets/cb39706b-905f-40ef-a84c-e88e8767e5f6" /> |
+| <img width="644" height="591" alt="Screenshot 2026-11-16 002803" src="https://github.com/user-attachments/assets/d232edf2-b1c6-4014-bcf2-8610965fa45e" /> | <img width="1344" height="1083" alt="Screenshot 2026-11-16 002852" src="https://github.com/user-attachments/assets/a6b42d96-3946-49c9-93ea-8512d8738060" /> |
+| <img width="1138" height="462" alt="Screenshot 2026-11-16 003514" src="https://github.com/user-attachments/assets/63a9a7dd-8310-4bc1-95e0-3ed7ddf95bc3" /> | x |
+
+
 For the layout, I got all my real keycaps out with the display and mocked it up by hand to see what felt right. I ended up with a **4 x 3 grid of keys on the right**, the **display on the left**, and the **encoder above the display** near the top edge. The board comes out to about **123.5 x 65.7 mm**. However, I am still deciding on the final size.</br>
 
 Mocking it up with real parts helped so much. Things look very different on paper than when they're sitting in front of you.</br>
