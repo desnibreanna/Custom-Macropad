@@ -91,7 +91,7 @@ Seeing all the footprints show up for the first time was so exciting. But it was
 Routing the PCB is done! This was the part I was most nervous about, and it took way longer than I thought it would.
 <img width="1354" height="1133" alt="Screenshot 2026-11-15 212844" src="https://github.com/user-attachments/assets/336e430b-2b55-4304-bfa3-cfc847917c5f" /></br>
 <img width="1836" height="1377" alt="Screenshot 2026-11-21 165932" src="https://github.com/user-attachments/assets/c4973ae1-17d4-4f4b-b41f-fd786ff79362" /></br> 
-<img width="2448" height="1296" alt="Screenshot 2026-11-16 002354" src="https://github.com/user-attachments/assets/a4ece439-f0a4-43dd-90ac-a69ca8fa05a1" /></br>
+
 
 
 
